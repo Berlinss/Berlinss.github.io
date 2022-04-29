@@ -12,7 +12,7 @@ npm run build
 git init
 #git add -A
 git add .
-git commit -m '脚本自动deploy'
+git commit -m 'deploy'
 
 # 如果你想要部署到 https://USERNAME.github.io
 git push -f git@github.com:Berlinss/Berlinss.github.io.git main

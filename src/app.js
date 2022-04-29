@@ -376,7 +376,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry("Chlli", {
+      var geometry = new THREE.TextGeometry("Chlli ff", {
         font: font,
         size: 3,
         height: 0.5,
